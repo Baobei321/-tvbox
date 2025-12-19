@@ -43,7 +43,7 @@ class Spider(Spider):
 		vod = [{
 			"vod_play_from": '书生玩剣ⁱ·*₁＇',
 			"vod_play_url": playUrls,
-			"vod_content": 'https://github.com/su147456888444',
+			"vod_content": 'https://github.com/vs194',
 		}]
 		result = {"list": vod}
 		return result
